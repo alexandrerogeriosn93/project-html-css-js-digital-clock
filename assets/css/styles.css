@@ -26,13 +26,17 @@ body {
   margin-bottom: 10px;
 }
 
-.separator,
+.separator {
+  font-size: 4.5rem;
+  color: #d3d3d3;
+  letter-spacing: 0.05rem;
+  justify-content: center;
+  align-items: center;
+}
+
 #date {
   font-size: 1.5rem;
   color: #d3d3d3;
   letter-spacing: 0.05rem;
-}
-
-#date {
   font-weight: 200;
 }
